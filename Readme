@@ -1,0 +1,14 @@
+This Code Can Be Used For Filtering Text Data Using Regex and Basic Data Frame Techniques, In Our Project Nepali Paraphrasing Using Trasnfomer We Have Used It For Following Things In Our Custom Dataset:
+-Metrics Based Filtering
+-Removal Of English Text And Numeric[Rows Removal] #Can Use Regex For Removal From Sentences Without Removing The Row
+-Removal Of Hyperlinks and Unwanted Characters
+
+Prerequisites:
+#Basic Knowledge of Python, Data Frames and Regex.
+
+Hope This Helped In Your Project.
+
+Regards,
+Abinash.
+
+Contact: acharyabinash@gmail.com
